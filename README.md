@@ -1,16 +1,23 @@
-## Hi there 👋
+# 奎宿 · kuixiu
 
-<!--
-**kuixiu/kuixiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 奎宿主文章，此账号亦然。
 
-Here are some ideas to get you started:
+## 关于这个名字
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**奎宿**，读作 **kuí xiù** —— 二十八宿之一，西方白虎七宿的第一宿。
+
+（是「星宿」的 xiù，不是「宿舍」的 sù。）
+
+古人讲「**奎主文章**」，把文运、文事都归在它名下。取这个名，图的是一个能长久用下去的字眼：不算张扬，也算给自己立一句常年的自勉。
+
+<!-- 这一节先空着，等想清楚再补：
+## 在这里做什么
 -->
+
+<!-- 这一节也先空着：
+## 找到我
+-->
+
+---
+
+*写代码，也写字。*
